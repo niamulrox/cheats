@@ -1,5 +1,7 @@
 # PostgreSQL
 
+```TO Login
+psql postgres
 
 ```bash
 sudo su postgres
